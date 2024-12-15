@@ -21,5 +21,7 @@ public class quad{
 		else{
 			System.out.println("No real roots");
 }
+		System.out.println("Daivya Priyankkumar Shah");
+		System.out.println("1BM23CS084");
 	}
 }
